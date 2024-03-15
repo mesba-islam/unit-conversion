@@ -1,5 +1,5 @@
 {
-    "name": "mesba/unit-sonversion",
+    "name": "mesba/unitconversion",
     "description": "perform unit conversion in php",
     "keywords": [
         "mesba",
@@ -9,7 +9,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "mesba",
+            "name": "Mesba",
             "email": "mesbansu@gmail.com",
             "role": "Developer"
         }
@@ -25,14 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "mesba\\unit-conversion\\": "src
-            "
+            "Mesba\\UnitConversion\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "mesba\\unit-conversion\\Tests\\
-            ": "tests"
+            "Mesba\\UnitConversion\\Tests\\": "tests"
         }
     },
     "scripts": {
