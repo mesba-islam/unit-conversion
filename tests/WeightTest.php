@@ -2,8 +2,8 @@
 
 namespace Mesba\UnitConversion\Tests;
 
-use PHPUnit\Framework\TestCase;
 use Mesba\UnitConversion\Weight;
+use PHPUnit\Framework\TestCase;
 
 class WeightTest extends TestCase
 {
@@ -13,5 +13,4 @@ class WeightTest extends TestCase
 
         $this->assertEquals(220.4623, $lbs);
     }
-
 }
