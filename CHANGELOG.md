@@ -2,6 +2,10 @@
 
 All notable changes to `Unit_conversion` will be documented in this file.
 
+## 1.0.1 - 2024-03-16
+
+Weight and Temperature conversion added
+
 ## Version 1.0.1 - March-17-2024
 
 -Added Weight Conversion
