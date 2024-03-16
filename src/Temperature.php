@@ -2,7 +2,6 @@
 
 namespace Mesba\UnitConversion;
 
-
 class Temperature
 {
     private float $celsius;
@@ -11,6 +10,7 @@ class Temperature
     {
         return new static($celsius);
     }
+
     public function __construct(float $celsius)
     {
         $this->celsius = $celsius;
