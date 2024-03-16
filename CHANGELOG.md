@@ -1,4 +1,13 @@
 # Changelog
 
-All notable changes to `:package_name` will be documented in this file.
+All notable changes to `Unit_conversion` will be documented in this file.
+
+## Version 1.0.1 - March-17-2024
+
+-Added Weight Conversion
+-Added Temperature conversion
+
+## Version 1.0.0 - March-17-2024
+
+-Initial release
 
