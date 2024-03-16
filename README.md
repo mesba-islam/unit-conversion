@@ -10,7 +10,7 @@
 You can install the package via composer:
 
 ```bash
-composer require mesba_islam/unitconversion
+composer require mesba/unitconversion
 ```
 
 ## Usage
