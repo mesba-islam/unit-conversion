@@ -11,3 +11,6 @@ All notable changes to `Unit_conversion` will be documented in this file.
 
 -Initial release
 
+## 1.0.0 - 2024-03-16
+
+-initial release
