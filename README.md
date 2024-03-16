@@ -43,7 +43,7 @@ Please see [CONTRIBUTING](https://github.com/mesba-islam/unit-conversion) for de
 
 ## Credits
 
-- [Mesba](https://github.com/mesba_islam)
+- [Mesba](https://github.com/mesba-islam)
 
 
 ## License
